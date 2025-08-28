@@ -18,7 +18,7 @@ author_profile: true
 
   <h2>Education</h2>
   <ul>
-    <li><strong>West Virginia University</strong> <span style="float:right;"><em>06/2018 – 07/2022</em></span>
+    <li><strong>West Virginia University</strong> <span style="float:right;"><em>08/2018 – 06/2022</em></span>
       <br><strong>Ph.D., Astrophysics</strong>  
       <br>Thesis: <em>Deep Radio Observations and the Role of the Cosmic Web in Galaxy Evolution</em>  
       <br>Advisor: Prof. D.J. Pisano
