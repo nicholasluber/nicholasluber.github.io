@@ -5,41 +5,32 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
 
-{% include base_path %}
+Academic Appointments
+======
+* Lecturer in Astronomy & Postdoctoral Science Fellow
+  * Columbia University
+  * 07/2022 - Present
+    
+* Graduate Research Assistant
+  * West Virginia University
+  * 06/2019 - 06/2022
+
+* Graduate Teaching Assistant
+  * West Virginia University
+  * 08/2018 - 05/2019
+ 
+* Undergraduate Research Assistant
+  * Columbia University
+  * 05/2016 - 07/2018
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, West Virginia University, 2022
+* M.S. in Astrophysics, West Virginia University, 2020
+* B.A. in Astrophysics, Mathematics, Columbia University, 2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
