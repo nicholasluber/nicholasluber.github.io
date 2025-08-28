@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 <div class="cv">
-
-  <h1>Curriculum Vitae</h1>
   <p><em>Last updated: August 2025</em></p>
 
   <h2>Academic Appointments</h2>
@@ -20,11 +18,11 @@ author_profile: true
 
   <h2>Education</h2>
   <ul>
-    <li><strong>West Virginia University</strong> <span style="float:right;"><em>06/2020 – 07/2022</em></span>
+    <li><strong>West Virginia University</strong> <span style="float:right;"><em>06/2018 – 07/2022</em></span>
       <br><strong>Ph.D., Astrophysics</strong>  
-      Thesis: <em>Deep Radio Observations and the Role of the Cosmic Web in Galaxy Evolution</em>  
-      Advisor: Prof. D.J. Pisano
-      <br><strong>M.S., Astrophysics</strong> <span style="float:right;"><em>08/2018 – 06/2020</em></span>
+      <br>Thesis: <em>Deep Radio Observations and the Role of the Cosmic Web in Galaxy Evolution</em>  
+      <br>Advisor: Prof. D.J. Pisano
+      <br><strong>M.S., Astrophysics</strong>
     </li>
     <li><strong>Columbia University</strong> <span style="float:right;"><em>08/2014 – 05/2018</em></span>
       <br><strong>B.A.</strong>, Major: Astrophysics, Concentration: Mathematics  
