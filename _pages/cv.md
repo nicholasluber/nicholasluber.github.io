@@ -8,6 +8,11 @@ author_profile: true
 <div class="cv">
   <p><em>Last updated: August 2025</em></p>
 
+  <p>
+    A downloadable version of my CV can be found 
+    <a href="/../files/Luber_CV.pdf" target="_blank">here</a>.
+  </p>
+  
   <h2>Academic Appointments</h2>
   <ul>
     <li><strong>Lecturer in Astronomy & Postdoctoral Science Fellow</strong>, Columbia University, New York, NY <span style="float:right;"><em>07/2022 – Present</em></span></li>
