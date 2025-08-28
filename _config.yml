@@ -23,23 +23,19 @@ description              : &description "personal description"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nick Luber"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Radio Astronomer / Science Educatory"
+  location         : "New York, New York"
+  employer         : "Columbia University"
+  email            : "nicholas.m.luber@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Luber,+N+M"
+  googlescholar    : "https://scholar.google.com/citations?user=qYIe_boAAAAJ&hl=en&oi=ao"
+  orcid            : "https://orcid.org/0009-0006-6641-0928"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +43,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "nicholasluber"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/nicholas-luber-985680100/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
