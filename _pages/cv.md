@@ -13,10 +13,10 @@ redirect_from:
 
 Here you can find a PDF version of my complete CV.
 
-**Academic Appointments**
----
-**Lecturer in Astronomy/Postdoctoral Science Fellow** *07/2022 - Present*
-Columbia University, New York, New York
+Academic Appointments
+======
+**Lecturer in Astronomy/Postdoctoral Science Fellow**  
+Columbia University, New York, New York, *07/2022 - Present*  
 
 
 Education
