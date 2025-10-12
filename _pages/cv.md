@@ -25,16 +25,21 @@ West Virginia University, Morgantown, WV, *06/2019 - 06/2022*
 West Virginia University, Morgantown, WV, *08/2018 - 05/2019*  
 
 **Undergraduate Research Assistantw**  
-Columbia University, New York, New York, *05/2016 - 07/2018*  
+Columbia University, New York, NY, *05/2016 - 07/2018*  
 
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**West Virginia University**, 08/2018 - 07/2022  
+**Ph. D**, Astrophysics, 07/2022  
+*Thesis:* Deep Radio Observations and the Role of the Cosmic Web in Galaxy Evolution  
+*Advisor:* Professor D.J. Pisano
 
-  
+**Columbia University**, 08/2014 - 05/2018  
+**B.A.**, Major: Astrophysics, Concentration: Mathematics  
+*Advisor:* Professor J. H. van Gorkom  
+Ben E. Horowitz Scholar
+
 Skills
 ======
 * Skill 1
