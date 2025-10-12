@@ -16,7 +16,16 @@ Here you can find a PDF version of my complete CV.
 Academic Appointments
 ======
 **Lecturer in Astronomy/Postdoctoral Science Fellow**  
-Columbia University, New York, New York, *07/2022 - Present*  
+Columbia University, New York, NY, *07/2022 - Present*  
+
+**Graduate Research Assistant**  
+West Virginia University, Morgantown, WV, *06/2019 - 06/2022*  
+
+**Graduate Teaching Assistant**  
+West Virginia University, Morgantown, WV, *08/2018 - 05/2019*  
+
+**Undergraduate Research Assistantw**  
+Columbia University, New York, New York, *05/2016 - 07/2018*  
 
 
 Education
