@@ -24,16 +24,17 @@ West Virginia University, Morgantown, WV, *06/2019 - 06/2022*
 **Graduate Teaching Assistant**  
 West Virginia University, Morgantown, WV, *08/2018 - 05/2019*  
 
-**Undergraduate Research Assistantw**  
+**Undergraduate Research Assistant**  
 Columbia University, New York, NY, *05/2016 - 07/2018*  
 
 
 Education
 ======
 **West Virginia University**, 08/2018 - 07/2022  
-**Ph. D**, Astrophysics, 07/2022  
+**Ph.D**, Astrophysics, 07/2022  
 *Thesis:* Deep Radio Observations and the Role of the Cosmic Web in Galaxy Evolution  
 *Advisor:* Professor D.J. Pisano
+**M.S.**, Astrophysics, 05/2020
 
 **Columbia University**, 08/2014 - 05/2018  
 **B.A.**, Major: Astrophysics, Concentration: Mathematics  
