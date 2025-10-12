@@ -41,7 +41,7 @@ Education
 *Advisor:* Professor J. H. van Gorkom  
 Ben E. Horowitz Scholar
 
-First Author Publications
+First & Second Author Publications
 ======
 J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], *CHILES XI: Resolved HI morphologies and the evolution of the H$_{2}$ / HI ratio over the last five billion years*, submitted to ApJ, positively refereed
 
