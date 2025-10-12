@@ -33,7 +33,7 @@ Education
 **West Virginia University**, 08/2018 - 07/2022  
 **Ph.D**, Astrophysics, 07/2022  
 *Thesis:* Deep Radio Observations and the Role of the Cosmic Web in Galaxy Evolution  
-*Advisor:* Professor D.J. Pisano
+*Advisor:* Professor D.J. Pisano  
 **M.S.**, Astrophysics, 05/2020
 
 **Columbia University**, 08/2014 - 05/2018  
