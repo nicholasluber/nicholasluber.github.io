@@ -43,9 +43,44 @@ Ben E. Horowitz Scholar
 
 First Author Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], *CHILES XI: Resolved HI morphologies and the evolution of the H$_{2}$ / HI ratio over the last five billion years*, submitted to ApJ, positively refereed
+
+Sabrina Stierwalt, **Nicholas Luber**, Zelie Goldberg Little, \[7 authors\], *TiNy Titans HI: An Isolated, Compact, HI-Rich Group of Dwarf Galaxies: Discovering Satellites around Dwarf Hosts via HI Gas*, submitted to ApJ, positively refereed
+
+**Nicholas Luber**, Sabrina Stierwalt, George C. Privon, \[7 authors\], *Caught in the Cosmic Web: A Low-Mass Galaxy Undergoing Ram-Pressure Stripping*, accepted to ApJL, arXiv: 2509.15405
+
+**Nicholas Luber**, Min Yun, Hansung Gim, Daniel Krista-Kelsey, D.J. Pisano, Emmanuel Momjian, Chris Hales, *The CHILES Continuum & Polarization Survey: Survey Design and Noise Characterization*, AJ, 170, 59, arXiv: 2504.20253
+
+**Nicholas M. Luber**, Farhan Hasan, J. H. van Gorkom, \[14 authors\], *CHILES IX: Observational and Simulated HI Content and Star Formation of Blue Galaxies in Different Cosmic Web Environments*, ApJ, 985, 214, arXiv: 2504.03585
+
+**Nicholas Luber**, D.J. Pisano, Jacqueline van Gorkom, \[9 authors\], *CHILES VIII: Probing Evolution of Average HI Content in Star Forming Galaxies over the Past 5 Billion Years*, ApJ, 985, 215, arXiv: 2504.02100 
+
+**N. Luber**, A. Muller, J. H. van Gorkom, et al., \[19 authors\], *GASP XXXVII: The HI Properties of Galaxies in Clusters with Jellyfish Galaxies*, ApJ, 927, 39, arXiv: 2201.00853
+
+**N. Luber**, Sarah Pearson, Mary E. Putman, Gurtina Besla, Sabrina Stierwalt, Joel P. Meyers, *Investigating the Baryon Cycle in Interacting Dwarfs with the Very Large Array and Pan-STARRS*, AJ, 163, 49, arXiv: 2111.04795
+
+**N. Luber**, J. H. van Gorkom, K. M. Hess, D. J. Pisano, X. Fernández, E. Momjian, *Large-scale Structure in CHILES Using DisPerSE*, 2019, AJ , 157, 254, arXiv: 1904.10511
+
+K. M. Hess, **N. M. Luber**, X. Fernández, \[27 authors\], *CHILES: HI morphology and galaxy environment at $z$ = 0.12 and $z$ = 0.17*, 2019, MNRAS, 484, 2234, arXiv: 1811.12405
+
+
+Other Publications
+======
+
+Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], *CHILES X: Molecular and atomic gas at intermediate redshift*, accepted to A&A}, arXiv: 2510.07966
+
+Hansung Gim, Min Yun, **Nicholas M. Luber**, Emmanuel Momjian, D.J. Pisano, Kelley M. Hess, Julia Blue Bird, Lucas Hunt, *The CHILES Continuum \& Polarization Survey-II: Radio Continuum Source Catalog and Radio Properties*, AJ, 170, 60, arXiv: 2504.20200
+
+A. Bianchetti, F. Sinigaglia, G. Rodighiero, \[3 authors\], **N. Luber**, \[23 authors\], *MIGHTEE-HI and CHILES Team Up: new constraints on the evolution of the M$_{HI}$-M$_{*}$ scaling relation*, ApJ, 982, 82, arXiv: 2502.00110
+
+Tirna Deb, Marc A.W. Verheijen, Bianca M. Poggianti, \[11 authors\], **Nicholas Luber**, \[2 authors\], *GASP XXXIX: MeerKAT hunts Jellyfish in A2626*, MNRAS, 516, 2683, arXiv: 2208.12950
+
+Adam R. Kobelski, Lucas A. Tarr, Sarah A. Jaeggli, **Nicholas Luber**, \[2 authors\], *A publicly available multi-observatory data set of an enhanced network patch from the Photosphere*, ApJS, 261, 15, arXiv: 2205.01766 
+
+R. Dodson, E. Momjian, D.J. Pisano, **N. Luber**, \[15 authors\], *CHILES VII: Deep Imaging for the CHILES project, a SKA prototype*, AJ, 163, 59, arXiv: 2112.06488
+
+J. Blue Bird, J. Davis, **N. Luber**, \[15 authors\], *CHILES VI: HI and H$\alpha$ observations for $z$ $<$ 0.1 galaxies; probing HI spin alignment with filaments in the cosmic web*, 2020, MNRAS, 492, 153, arXiv: 1811.12405
+
   
 Talks
 ======
