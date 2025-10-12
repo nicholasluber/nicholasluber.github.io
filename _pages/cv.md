@@ -15,10 +15,8 @@ Here you can find a PDF version of my complete CV.
 
 **Academic Appointments**
 ---
-**Lecturer in Astronomy/Postdoctoral Science Fellow** <div style="text-align: right"> your-text-here </div>
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Lecturer in Astronomy/Postdoctoral Science Fellow** *07/2022 - Present*
+Columbia University, New York, New York
 
 
 Education
