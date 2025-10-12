@@ -14,7 +14,7 @@ redirect_from:
 Here you can find a PDF version of my complete CV.
 
 **Academic Appointments**
-___
+---
 **Lecturer in Astronomy/Postdoctoral Science Fellow** <div style="text-align: right"> your-text-here </div>
   * GitHub University
   * Duties includes: Updates and improvements to template
