@@ -160,8 +160,7 @@ Teaching
 * *General Physics I - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2023*
 
 **Grader:**
-* *West Virginia University - Astronomy 470*, An introduction to general relativity for advanced physics undergraduate students. *\em Fall 2020*
-    \end{etaremune}
+* *West Virginia University - Astronomy 470*, An introduction to general relativity for advanced physics undergraduate students. *Fall 2020*
 
 **Teaching Assistant/Lab Instructor:**
 * *West Virginia University - Physics 102*, The introductory electricity and magnetism lab aimed toward students pursuing degrees related to health sciences. *Fall 2018, Spring 2019*
