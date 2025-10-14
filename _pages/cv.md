@@ -156,7 +156,7 @@ Teaching
 **Lecture Instructor:**
 * *Life in the Universe - Columbia University*, Survey astronomy course using the Drake Equation as a template for understanding possible extra-terrestrial life. *Spring 2024, 2025, Fall 2025*
 * *General Physics II - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2024, 2025*
-* *Another Earth - Columbia University*, Survey astronomy course that uses the Drake Equation as a vehicle to understand possible extra-terrestrial life. *Fall 2024
+* *Another Earth - Columbia University*, Survey astronomy course that uses the Drake Equation as a vehicle to understand possible extra-terrestrial life. *Fall 2024*
 * *General Physics I - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2023*
 
 **Grader:**
