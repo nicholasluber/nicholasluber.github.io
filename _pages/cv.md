@@ -67,7 +67,7 @@ K. M. Hess, **N. M. Luber**, X. Fernández, \[27 authors\], *CHILES: HI morpholo
 Other Publications
 ======
 
-Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], *CHILES X: Molecular and atomic gas at intermediate redshift*, accepted to A&A}, arXiv: 2510.07966
+Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], [*CHILES X: Molecular and atomic gas at intermediate redshift*](https://ui.adsabs.harvard.edu/abs/2025arXiv251007966H/abstract), accepted to A&A}, arXiv: 2510.07966
 
 Hansung Gim, Min Yun, **Nicholas M. Luber**, Emmanuel Momjian, D.J. Pisano, Kelley M. Hess, Julia Blue Bird, Lucas Hunt, *The CHILES Continuum \& Polarization Survey-II: Radio Continuum Source Catalog and Radio Properties*, AJ, 170, 60, arXiv: 2504.20200
 
