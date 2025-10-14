@@ -153,5 +153,16 @@ Teaching
 **Seminar Instructor:**
 * *Frontiers of Science - Columbia University*, Discussion-based course using four different scientific fields as material for learning scientific habits of mind. *07/2022-Present*
 
+**Lecture Instructor:**
+* *Life in the Universe - Columbia University*, Survey astronomy course using the Drake Equation as a template for understanding possible extra-terrestrial life. *Spring 2024, 2025, Fall 2025*
+* *General Physics II - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2024, 2025*
+* *Another Earth - Columbia University*, Survey astronomy course that uses the Drake Equation as a vehicle to understand possible extra-terrestrial life. *Fall 2024
+* *General Physics I - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2023*
 
+**Grader:**
+* *West Virginia University - Astronomy 470*, An introduction to general relativity for advanced physics undergraduate students. *\em Fall 2020*
+    \end{etaremune}
+
+**Teaching Assistant/Lab Instructor:}**
+* *West Virginia University - Physics 102*, The introductory electricity and magnetism lab aimed toward students pursuing degrees related to health sciences. *Fall 2018, Spring 2019*
   
