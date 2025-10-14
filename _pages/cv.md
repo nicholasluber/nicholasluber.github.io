@@ -150,7 +150,7 @@ Talks and Posters
 
 Teaching
 ======
-**Seminar Instructor:**  
+**Seminar Instructor:**
 * *Frontiers of Science - Columbia University*, Discussion-based course using four different scientific fields as material for learning scientific habits of mind. *07/2022-Present*
 
 
