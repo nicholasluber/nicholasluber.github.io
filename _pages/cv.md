@@ -89,6 +89,29 @@ Mentored Students
 **Colby Malcom**, Undergraduate Research Assistant, Columbia University  
 *Current Graduate student at University of Leiden*  
 
+
+Accepted Telescope Proposals
+======
+Very Large Array 25A-364, Gregory Walsh, **Nicholas Luber**, 2025, *The State of HI Across The Major Merger Sequence*, -/90 hrs.
+
+Very Large Array 24A-355, Sabrina Stierwalt, **Nick Luber**, Nitya Kallivayalil, \[3 authors\], 2024, *Gas Kinematics in Dwarf-Dwarf Interactions: Fueling Hierarchical Assembly*, 180/180 hrs.
+
+Very Large Array 24A-349, Jingyao Zhu, **Nick Luber**, Mary Putman, 2023, *Probing ram pressure stripping in dwarf satellite galaxies using 21-cm HI*, 24/24 hrs.
+
+Large Millimeter Telescope 2021-S1-US-22/2023-S1-US-8, Hansung Gim, Min Yun, Danielle Lucero, \[4 authors\], **Nick Luber**, \[4 authors\], 2021/2023, *Exploring the evolution of total gas contents with the observations of galaxies within z=0.11-0.17*, 
+
+Large Millimeter Telescope 2021-S1-US-16/2023-S1-US-18, Julia Blue Bird, Min Yun, Hansung Gim, \[3 authors\], **Nick Luber**, \[5 authors\], 2021/2023, *Total Gas Content at High Redshift with CHILES and LMT*, 
+
+Very Large Array 22B-244, **Nick Luber**, Pierre-Jacques, T., 2022, *Dynamics and Evolution of Spiral-Elliptical Mergers using Neutral Hydrogen*, 12/18 hrs.
+
+Very Large Array 21A-386, **Nick Luber**, Terrence Pierre-Jacques, D.J. Pisano, 2021, *Studying Spiral-Elliptical Mergers with Neutral Hydrogen*, 8/18 hrs. 
+
+Very Large Array 21A-304, Blue Bird, J., **Nick Luber**, J.H. van Gorkom, \[8 authors\], 2021, *CHILES in C-configuration, spin alignment in nearby galaxies and HI in filaments*, 24/24 hrs.
+
+Green Bank Telescope 19B-328, **Nick Luber**, D.J. Pisano, 2019, *Diffuse HI Mapping of Host-Dwarf Galaxy Interaction*, 2/2 hrs.
+
+Green Bank Telescope 18B-357, D.J. Pisano, Jennifer Donovan Meyer, Evan Smith, \[8 authors\], **Nick Luber**, \[2 authors\], 2018, *More mapping of CO(1-0) in the highest redshift HI detection in CHILES*, 7.5/7.5 hrs.
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
