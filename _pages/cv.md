@@ -146,10 +146,12 @@ Talks and Posters
 **Poster,** AstroFest, Columbia University, New York, NY, *09/2017*
 
 **Poster,** AstroFest, Columbia University, New York, NY, *09/2016*
-  
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Seminar Instructor:**  
+* *Frontiers of Science - Columbia University*, Discussion-based course using four different scientific fields as material for learning scientific habits of mind. *07/2022-Present*
+
+
   
