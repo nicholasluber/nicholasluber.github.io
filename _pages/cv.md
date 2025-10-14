@@ -85,7 +85,9 @@ J. Blue Bird, J. Davis, **N. Luber**, \[15 authors\], [*CHILES VI: HI and H$\alp
 Mentored Students
 ======
 **Mariska Laky**, Undergraduate Research Assistant, Barnard College, Columbia University  
-**Colby Malcom**, Undergraduate Research Assistant, Columbia University, *Current Graduate student at University of Leiden*  
+
+**Colby Malcom**, Undergraduate Research Assistant, Columbia University  
+*Current Graduate student at University of Leiden*  
 
 Talks
 ======
