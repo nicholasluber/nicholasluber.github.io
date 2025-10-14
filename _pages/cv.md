@@ -112,11 +112,40 @@ Green Bank Telescope 19B-328, **Nick Luber**, D.J. Pisano, 2019, *Diffuse HI Map
 
 Green Bank Telescope 18B-357, D.J. Pisano, Jennifer Donovan Meyer, Evan Smith, \[8 authors\], **Nick Luber**, \[2 authors\], 2018, *More mapping of CO(1-0) in the highest redshift HI detection in CHILES*, 7.5/7.5 hrs.
 
-Talks
+
+Talks and Posters
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**Colloquium,** Columbia University, New York, NYm *02/2025*
+
+**Talk,** 245th AAS meeting, National Harbor, MD, *01/2025*
+
+**Talk,** AstroFest, Columbia University, New York, NY, *09/2024*
+
+**Talk,** IAU General Assembly, Cape Town, South Africa, *08/2024*
+
+**Talk,** GASPISA, Pisa, Italy, *05/2024*
+
+**Talk,** 243rd AAS meeting, New Orleans, LA, *01/2024*
+
+**Talk,** AstroFest, Columbia University, New York, NY, *09/2023*
+
+**Talk,** The Evolution of Gas in and around Galaxies, Stanley, ID, *07/2023*
+
+**Talk,** GothamFest, Center for Computational Astrophysics, New York, NY, *01/2023*
+
+**Talk,** 241st AAS meeting, Seattle, WA, *01/2023*
+
+**Talk,** AstroFest, Columbia University, New York, NY, *09/2022*
+
+**Dissertation Talk,** 240th AAS meeting, Pasadena, CA, *06/2022*
+
+**Invited Talk,** Astronomical Sciences Seminar Series, Virginia Tech, Blacksburg, VA, *11/2021*
+
+**Poster,** 231st AAS meeting, National Harbor, MD, *01/2018*
+
+**Poster,** AstroFest, Columbia University, New York, NY, *09/2017*
+
+**Poster,** AstroFest, Columbia University, New York, NY, *09/2016*
   
 Teaching
 ======
