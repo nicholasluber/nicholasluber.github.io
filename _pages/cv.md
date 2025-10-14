@@ -163,6 +163,6 @@ Teaching
 * *West Virginia University - Astronomy 470*, An introduction to general relativity for advanced physics undergraduate students. *\em Fall 2020*
     \end{etaremune}
 
-**Teaching Assistant/Lab Instructor:}**
+**Teaching Assistant/Lab Instructor:**
 * *West Virginia University - Physics 102*, The introductory electricity and magnetism lab aimed toward students pursuing degrees related to health sciences. *Fall 2018, Spring 2019*
   
