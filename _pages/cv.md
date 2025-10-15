@@ -165,3 +165,23 @@ Teaching
 **Teaching Assistant/Lab Instructor:**
 * *West Virginia University - Physics 102*, The introductory electricity and magnetism lab aimed toward students pursuing degrees related to health sciences. *Fall 2018, Spring 2019*
   
+
+Outreach
+=====
+**Talk**, *New York, New York*, Lecture on the role of the electromagnetic spectrum in astronomy with a specific focus on the radio geared towards an all age public audience. *09/2025* 
+
+**Talk**, *New York, New York*, Lecture on the the effect of the cosmic web on galaxy evolution geared towards first-year college students. *09/2025* 
+
+**Talk**, *New York, New York*, Lecture on the use of long integration radio observations to understand the nature of the sky at long wavelengths. *10/2024*
+
+**Talk**, *New York, New York*, Lecture on the use of radio interferometry to understand cold gas, the cosmic web, and galaxy evolution geared towards an all age public audience. *12/2023*
+
+**Talk**, *New York, New York*, Lecture on the use of radio interferometry to understand cold gas, the cosmic web, and galaxy evolution geared towards first-year college students. *10/2023*
+
+**Talk**, *New York, New York*, Lecture on the use of radio interferometry to understand cold gas, the cosmic web, and galaxy evolution geared towards international high school students. *10/2023*
+
+**Talk**, *Fishkill, New York*, Interactive lecture overviewing astronomical objects geared towards 3rd - 5th graders. *06/2023*
+
+**Volunteer**, *Morgantown, West Virginia*, Facilitating physics demonstrations and communicating astronomy in a community fair setting for all ages. *07/2021*
+
+**Talk**, *Fishkill, New York*, Interactive lecture overviewing astronomical objects geared towards 3rd - 5th graders.  *05/2021*
