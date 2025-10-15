@@ -11,7 +11,7 @@ redirect_from:
 
 *Last updated 11 October 2025*
 
-You can find a PDF version of my complete CV [here.](files/Luber_CV.pdf)
+You can find a PDF version of my complete CV [here.](../files/Luber_CV.pdf)
 
 Academic Appointments
 ======
