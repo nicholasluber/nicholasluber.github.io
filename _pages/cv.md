@@ -151,19 +151,29 @@ Talks and Posters
 Teaching
 ======
 **Seminar Instructor:**
-* *Frontiers of Science - Columbia University*, Discussion-based course using four different scientific fields as material for learning scientific habits of mind. *07/2022-Present*
+* *Frontiers of Science - Columbia University, 07/2022-Present*  
+Discussion-based course using four different scientific fields as material for learning scientific habits of mind. 
 
 **Lecture Instructor:**
-* *Life in the Universe - Columbia University*, Survey astronomy course using the Drake Equation as a template for understanding possible extra-terrestrial life. *Spring 2024, 2025, Fall 2025*
-* *General Physics II - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2024, 2025*
-* *Another Earth - Columbia University*, Survey astronomy course that uses the Drake Equation as a vehicle to understand possible extra-terrestrial life. *Fall 2024*
-* *General Physics I - Columbia University*, The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. *Summer 2023*
+* *Life in the Universe - Columbia University, Spring 2024, 2025, Fall 2025*  
+Survey astronomy course using the Drake Equation as a template for understanding possible extra-terrestrial life.
+  
+* *General Physics II - Columbia University, Summer 2024, 2025*  
+The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track.
+
+* *Another Earth - Columbia University, Fall 2024*  
+Survey astronomy course that uses the Drake Equation as a vehicle to understand possible extra-terrestrial life.
+
+* *General Physics I - Columbia University, Summer 2023*  
+The algebra-based introduction to mechanics fluids and thermodynamics, aimed for those on the pre-medical track. 
 
 **Grader:**
-* *West Virginia University - Astronomy 470*, An introduction to general relativity for advanced physics undergraduate students. *Fall 2020*
+* *West Virginia University - Astronomy 470, Fall 2020*  
+An introduction to general relativity for advanced physics undergraduate students.
 
 **Teaching Assistant/Lab Instructor:**
-* *West Virginia University - Physics 102*, The introductory electricity and magnetism lab aimed toward students pursuing degrees related to health sciences. *Fall 2018, Spring 2019*
+* *West Virginia University - Physics 102, Fall 2018, Spring 2019*  
+The introductory electricity and magnetism lab aimed toward students pursuing degrees related to health sciences.
   
 
 Outreach
