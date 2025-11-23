@@ -2,9 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from: /about/
 ---
 
 I am a scientist at Columbia University broadly interested in galaxy evolution, low-mass galaxies, and the role of the cosmic web in shaping the observable universe. My research combines radio interferometry, multi-wavelength imaging, and statistical analysis to study the flow of gas into and out of galaxies, with a particular focus on systems that are under-luminous, gas-rich, or undergoing unusual environmental processes.
