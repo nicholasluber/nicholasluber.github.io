@@ -18,6 +18,9 @@ Academic Appointments
 **Lecturer in Astronomy/Postdoctoral Science Fellow**  
 Columbia University, New York, NY, *07/2022 - Present*  
 
+**Adjunct Lecturer in Physics & Astronomy**  
+Barnard College, New York, NY, *Spring 2024, 01/2025 - Present*  
+
 **Graduate Research Assistant**  
 West Virginia University, Morgantown, WV, *06/2019 - 06/2022*  
 
