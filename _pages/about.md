@@ -10,14 +10,10 @@ redirect_from: /about/
   <img src="../images/NickSailing.jpeg" alt="Nick" style="width:100%;">
 </div>
 
-I am a scientist at Columbia University broadly interested in galaxy evolution, low-mass galaxies, and the role of the cosmic web in shaping the observable universe. My research combines radio interferometry, multi-wavelength imaging, and statistical analysis to study the flow of gas into and out of galaxies, with a particular focus on systems that are under-luminous, gas-rich, or undergoing unusual environmental processes.
+I am an astrophysicist at Columbia University broadly interested in galaxy evolution and the role that the large-scale structure of the universe plays in shaping the observed properties of galaxies. My research primarly relies on data at radio wavelengths, specifically data from radio interferometers, combining statistical analysis and deep imaging, to study the flow of gas into and out of galaxies.
 
-Much of my work centers on using facilities like ALMA and the VLA to investigate faint, low-surface-brightness structures in and around galaxies, including signs of cosmic-web stripping, time-variable radio emission, and extended neutral gas reservoirs. I am especially motivated by the challenge of detecting and characterizing subtle astrophysical signals in the presence of noise, calibration systematics, or incomplete sampling.
+In addition to my research, I am passionate about teaching and science communication. At Columbia University and Barnard College, I teach courses aimed at both STEM and non-STEM majors, including Life in the Universe, which uses the Drake Equation as an entry point to discuss astrobiology, planetary systems, and the search for extraterrestrial intelligence, and Frontiers of Science, a course aimed at equipping students with the basic tools neccessary to confront the science that they will see in their lives. I strive to create welcoming, curiosity-driven learning environments where students feel empowered regardless of background or preparation.
 
-In addition to my research, I am passionate about teaching and mentoring. At Columbia I teach courses aimed at both STEM and non-STEM majors, including Life in the Universe, which uses the Drake Equation as an entry point to discuss astrobiology, planetary systems, and the search for extraterrestrial intelligence. I strive to create welcoming, curiosity-driven learning environments where students feel empowered regardless of background or preparation.
-
-I am also developing research and educational initiatives around the use of machine learning in astronomy—from industrial remote sensing applications to improved analysis of low-resolution astronomical imagery.
-
-Outside of research and teaching, I enjoy public science engagement, developing open-source tools and visualizations, and supporting students as they find their own paths into astronomy and adjacent fields.
+Outside of my scientific, and related, pursuits, I enjoy experimenting with new recipes, exploring New York City, and sailing!
 
 <br style="clear: both;">
