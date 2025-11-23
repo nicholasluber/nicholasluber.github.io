@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Last updated 11 October 2025*
+*Last updated 22 November 2025*
 
 You can find a PDF version of my complete CV [here.](../files/Luber_CV.pdf)
 
