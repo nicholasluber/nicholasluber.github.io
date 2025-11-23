@@ -50,7 +50,7 @@ J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], *CHILES XI: Resolved HI mo
 
 Sabrina Stierwalt, **Nicholas Luber**, Zelie Goldberg Little, \[7 authors\], *TiNy Titans HI: An Isolated, Compact, HI-Rich Group of Dwarf Galaxies: Discovering Satellites around Dwarf Hosts via HI Gas*, submitted to ApJ, positively refereed
 
-**Nicholas Luber**, Sabrina Stierwalt, George C. Privon, \[7 authors\], [*Caught in the Cosmic Web: A Low-Mass Galaxy Undergoing Ram-Pressure Stripping*](https://ui.adsabs.harvard.edu/abs/2025arXiv250915405L/abstract), accepted to ApJL, arXiv: 2509.15405
+**Nicholas Luber**, Sabrina Stierwalt, George C. Privon, \[7 authors\], [*Caught in the Cosmic Web: A Low-Mass Galaxy Undergoing Ram-Pressure Stripping*](https://ui.adsabs.harvard.edu/abs/2025arXiv250915405L/abstract), ApJL, 993, 1, L14 arXiv: 2509.15405
 
 **Nicholas Luber**, Min Yun, Hansung Gim, Daniel Krista-Kelsey, D.J. Pisano, Emmanuel Momjian, Chris Hales, [*The CHILES Continuum & Polarization Survey: Survey Design and Noise Characterization*](https://ui.adsabs.harvard.edu/abs/2025AJ....170...59L/abstract), AJ, 170, 59, arXiv: 2504.20253
 
@@ -70,7 +70,7 @@ K. M. Hess, **N. M. Luber**, X. Fernández, \[27 authors\], [*CHILES: HI morphol
 Other Publications
 ======
 
-Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], [*CHILES X: Molecular and atomic gas at intermediate redshift*](https://ui.adsabs.harvard.edu/abs/2025arXiv251007966H/abstract), accepted to A&A}, arXiv: 2510.07966
+Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], [*CHILES X: Molecular and atomic gas at intermediate redshift*](https://ui.adsabs.harvard.edu/abs/2025arXiv251007966H/abstract), accepted to A&A, arXiv: 2510.07966
 
 Hansung Gim, Min Yun, **Nicholas M. Luber**, Emmanuel Momjian, D.J. Pisano, Kelley M. Hess, Julia Blue Bird, Lucas Hunt, [*The CHILES Continuum \& Polarization Survey-II: Radio Continuum Source Catalog and Radio Properties*](https://ui.adsabs.harvard.edu/abs/2025AJ....170...60G/abstract), AJ, 170, 60, arXiv: 2504.20200
 
