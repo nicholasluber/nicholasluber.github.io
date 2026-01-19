@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Last updated 22 November 2025*
+*Last updated 19 January 2026*
 
 You can find a PDF version of my complete CV [here.](../files/Luber_CV.pdf)
 
@@ -46,9 +46,9 @@ Ben E. Horowitz Scholar
 
 First & Second Author Publications
 ======
-J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], *CHILES XI: Resolved HI morphologies and the evolution of the H$_{2}$ / HI ratio over the last five billion years*, submitted to ApJ, positively refereed
+J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], [*CHILES XI: Resolved HI morphologies and the evolution of the H$_{2}$ / HI ratio over the last five billion years*](https://ui.adsabs.harvard.edu/abs/2026arXiv260111011B/abstract), accepted to ApJ, arXiv: 2601:11011
 
-Sabrina Stierwalt, **Nicholas Luber**, Zelie Goldberg Little, \[7 authors\], *TiNy Titans HI: An Isolated, Compact, HI-Rich Group of Dwarf Galaxies: Discovering Satellites around Dwarf Hosts via HI Gas*, submitted to ApJ, positively refereed
+Sabrina Stierwalt, **Nicholas Luber**, Zelie Goldberg Little, \[7 authors\], [*TiNy Titans HI: An Isolated, Compact, HI-Rich Group of Dwarf Galaxies: Discovering Satellites around Dwarf Hosts via HI Gas*](https://ui.adsabs.harvard.edu/abs/2025arXiv251209174S/abstract), accepted to ApJ, arXiv: 2512.09174
 
 **Nicholas Luber**, Sabrina Stierwalt, George C. Privon, \[7 authors\], [*Caught in the Cosmic Web: A Low-Mass Galaxy Undergoing Ram-Pressure Stripping*](https://ui.adsabs.harvard.edu/abs/2025arXiv250915405L/abstract), ApJL, 993, 1, L14 arXiv: 2509.15405
 
