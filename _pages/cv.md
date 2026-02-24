@@ -46,9 +46,9 @@ Ben E. Horowitz Scholar
 
 First & Second Author Publications
 ======
-J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], [*CHILES XI: Resolved HI morphologies and the evolution of the H$_{2}$ / HI ratio over the last five billion years*](https://ui.adsabs.harvard.edu/abs/2026arXiv260111011B/abstract), accepted to ApJ, arXiv: 2601:11011
+J. Blue Bird, **N. Luber**, H. B. Gim, \[8 authors\], [*CHILES XI: Resolved HI morphologies and the evolution of the H$_{2}$ / HI ratio over the last five billion years*](https://ui.adsabs.harvard.edu/abs/2026arXiv260111011B/abstract), ApJ, 998, 248B, arXiv: 2601:11011
 
-Sabrina Stierwalt, **Nicholas Luber**, Zelie Goldberg Little, \[7 authors\], [*TiNy Titans HI: An Isolated, Compact, HI-Rich Group of Dwarf Galaxies: Discovering Satellites around Dwarf Hosts via HI Gas*](https://ui.adsabs.harvard.edu/abs/2025arXiv251209174S/abstract), accepted to ApJ, arXiv: 2512.09174
+Sabrina Stierwalt, **Nicholas Luber**, Zelie Goldberg Little, \[7 authors\], [*TiNy Titans HI: An Isolated, Compact, HI-Rich Group of Dwarf Galaxies: Discovering Satellites around Dwarf Hosts via HI Gas*](https://ui.adsabs.harvard.edu/abs/2025arXiv251209174S/abstract), ApJ, 997, 132S, arXiv: 2512.09174
 
 **Nicholas Luber**, Sabrina Stierwalt, George C. Privon, \[7 authors\], [*Caught in the Cosmic Web: A Low-Mass Galaxy Undergoing Ram-Pressure Stripping*](https://ui.adsabs.harvard.edu/abs/2025arXiv250915405L/abstract), ApJL, 993, 1, L14 arXiv: 2509.15405
 
@@ -70,7 +70,10 @@ K. M. Hess, **N. M. Luber**, X. Fernández, \[27 authors\], [*CHILES: HI morphol
 Other Publications
 ======
 
-Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], [*CHILES X: Molecular and atomic gas at intermediate redshift*](https://ui.adsabs.harvard.edu/abs/2025arXiv251007966H/abstract), accepted to A&A, arXiv: 2510.07966
+Henco Arlow, D.J. Pisano, \[2 authors\], **Nicholas Luber**, \[4 authors], *CHILES XII: The HI evolution of Luminous Compact Blue Galaxies
+between 0 $< z <$ 0.48*, *submitted to MNRAS*
+
+Kelley M. Hess, John Hibbard, \[2 authors\], **Nicholas M. Luber**, \[8 authors\], [*CHILES X: Molecular and atomic gas at intermediate redshift*](https://ui.adsabs.harvard.edu/abs/2025arXiv251007966H/abstract), A&A 705, A163, arXiv: 2510.07966
 
 Hansung Gim, Min Yun, **Nicholas M. Luber**, Emmanuel Momjian, D.J. Pisano, Kelley M. Hess, Julia Blue Bird, Lucas Hunt, [*The CHILES Continuum \& Polarization Survey-II: Radio Continuum Source Catalog and Radio Properties*](https://ui.adsabs.harvard.edu/abs/2025AJ....170...60G/abstract), AJ, 170, 60, arXiv: 2504.20200
 
@@ -158,7 +161,10 @@ Teaching
 Discussion-based course using four different scientific fields as material for learning scientific habits of mind. 
 
 **Lecture Instructor:**
-* *Life in the Universe - Columbia University, Spring 2024, 2025, Fall 2025*  
+* *Stars, Galaxies, and Cosmology - Barnard College, Spring 2026*  
+Survey astronomy course exploring stars, galaxies and cosmology through the lens of four key questions.
+
+* *Life in the Universe - Barnard College, Spring 2024, 2025, Fall 2025*  
 Survey astronomy course using the Drake Equation as a template for understanding possible extra-terrestrial life.
   
 * *General Physics II - Columbia University, Summer 2024, 2025*  
@@ -198,3 +204,10 @@ Outreach
 **Volunteer**, *Morgantown, West Virginia*, Facilitating physics demonstrations and communicating astronomy in a community fair setting for all ages. *07/2021*
 
 **Talk**, *Fishkill, New York*, Interactive lecture overviewing astronomical objects geared towards 3rd - 5th graders.  *05/2021*
+
+
+In the Media
+=====
+*A distant galaxy is being strangled by the cosmic web*, NewScientist, Interview/Feature, November 2025
+
+*Core Conversations: Nicholas Luber CC’18*, Columbia College Core Conversations, Interview/Feature, September 2025
