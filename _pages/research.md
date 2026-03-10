@@ -12,7 +12,7 @@ author_profile: true
 <p>
 <img src="/images/ConPol_ImapZoom.png" 
      alt="CHILES Con Pol Field" 
-     style="float:right; margin-left:20px; width:500px;">
+     style="float:right; margin-left:20px; width:400px;">
   
 My research has focused on understanding how galaxies acquire, retain, and lose the gas that fuels star formation, and on how these processes are shaped by their environment. During my PhD at West Virginia University, I worked on the COSMOS HI Large Extragalactic Survey (CHILES), a deep Very Large Array program designed to detect neutral hydrogen out to intermediate redshifts. I developed automated calibration and imaging pipelines, created quality-assurance tools for high-performance computing environments, and implemented advanced techniques to mitigate artifacts arising from radio frequency interference and imperfect deconvolution. Building on this work, I contributed to the CHILES Continuum & Polarization Survey, which produced the deepest 1.4 GHz continuum image at sub-arcsecond resolution, and helped characterize systematic effects and refine the dataset for studies of cosmic star formation and large-scale magnetism.
 </p>
