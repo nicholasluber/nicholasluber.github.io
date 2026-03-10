@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-**Current Research Direction:** My future research will focus on understanding how galaxies acquire, process, and lose gas, and how these processes are shaped by both internal dynamics and the surrounding cosmic environment. I plan to use deep observations from radio interferometers, such as the VLA and upcoming SKA pathfinders, to trace neutral hydrogen inflows and outflows, measure gas depletion timescales, and map the interaction between galaxies and the cosmic web. I am also interested in exploring the impact of large-scale magnetic fields on gas accretion and star formation by analyzing Faraday rotation measures across diverse environments. By combining high-resolution imaging of individual galaxies with statistical studies of galaxy populations, I aim to quantify how mergers, interactions, and environment regulate star formation, particularly in low-mass dwarf systems. Additionally, I will develop advanced analysis pipelines and AI-driven techniques to handle the massive datasets these surveys produce, ensuring that subtle astrophysical signals are reliably extracted. This work will provide a comprehensive view of the baryon cycle, connecting the internal evolution of galaxies to the larger-scale structure of the Universe.
+**Current Research Direction:** 
 
-**Previous Research** 
+My future research will focus on understanding how galaxies acquire, process, and lose gas, and how these processes are shaped by both internal dynamics and the surrounding cosmic environment. I plan to use deep observations from radio interferometers, such as the VLA and upcoming SKA pathfinders, to trace neutral hydrogen inflows and outflows, measure gas depletion timescales, and map the interaction between galaxies and the cosmic web. I am also interested in exploring the impact of large-scale magnetic fields on gas accretion and star formation by analyzing Faraday rotation measures across diverse environments. By combining high-resolution imaging of individual galaxies with statistical studies of galaxy populations, I aim to quantify how mergers, interactions, and environment regulate star formation, particularly in low-mass dwarf systems. Additionally, I will develop advanced analysis pipelines and AI-driven techniques to handle the massive datasets these surveys produce, ensuring that subtle astrophysical signals are reliably extracted. This work will provide a comprehensive view of the baryon cycle, connecting the internal evolution of galaxies to the larger-scale structure of the Universe.
+
+**A Sampling of Previous Research:** 
 
 <p>
 <img src="/images/ConPol_ImapZoom.png" 
