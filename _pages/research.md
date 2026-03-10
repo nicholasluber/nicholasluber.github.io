@@ -27,5 +27,13 @@ My research has focused on understanding how galaxies acquire, retain, and lose 
      
 Using these rich datasets, I have applied statistical stacking methods to investigate two key questions in galaxy evolution: how the HI content of galaxies changes with mass and redshift, and how the cosmic web influences that evolution. My analysis suggests that intermediate-mass galaxies maintain relatively steady gas reservoirs across cosmic time, while more massive systems show increasing HI content at earlier epochs, pointing to differences in how galaxies acquire gas. I also explored whether the large-scale environment regulates these gas reservoirs, finding only tentative evidence for environmental effects—highlighting both the complexity of galaxy evolution and the challenges inherent in interpreting subtle trends at sensitivity limits.
 </p>
+<div style="clear:both;"></div>
 
+<p>
+<img src="/images/Luber_A727130.png" 
+     alt="CHILES Con Pol Field" 
+     style="float:right; margin-left:20px; width:400px;">
+     
 In parallel, I have examined individual galaxies in detail using high-resolution HI observations. My studies have included extreme jellyfish galaxies undergoing ram-pressure stripping, interacting dwarfs exhibiting diffuse gas bridges and extended envelopes, and most recently AGC 727130, a remarkably gas-rich dwarf galaxy with almost no star formation. Situated where multiple cosmic filaments intersect, AGC 727130 shows neutral gas extending dramatically beyond its stellar body, and my work argues that this morphology is best explained by ram-pressure from the cosmic web itself. These case studies demonstrate how environmental processes—ranging from cluster interactions to filamentary accretion—can profoundly reshape a galaxy’s gas and star-formation history.
+</p>
+<div style="clear:both;"></div>
