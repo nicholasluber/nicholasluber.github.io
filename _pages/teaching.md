@@ -14,7 +14,7 @@ Courses Taught
 Discussion-based course using four different scientific fields as material for learning scientific habits of mind. 
 
 **Lecture Instructor:**
-* *Life in the Universe - Columbia University, Spring 2024, 2025, Fall 2025*  
+* *Life in the Universe - Columbia University, Fall 2025, Spring 2024/25/26*  
 Survey astronomy course using the Drake Equation as a template for understanding possible extra-terrestrial life.
   
 * *General Physics II - Columbia University, Summer 2024, 2025*  
