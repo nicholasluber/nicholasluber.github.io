@@ -19,7 +19,7 @@ Academic Appointments
 Columbia University, New York, NY, *07/2022 - Present*  
 
 **Adjunct Lecturer in Physics & Astronomy**  
-Barnard College, New York, NY, *Spring 2024, 01/2025 - Present*  
+Barnard College, New York, NY, *Fall 2025, Spring 2024/25/26*  
 
 **Graduate Research Assistant**  
 West Virginia University, Morgantown, WV, *06/2019 - 06/2022*  
@@ -98,7 +98,7 @@ Mentored Students
 
 Accepted Telescope Proposals
 ======
-Very Large Array 25A-364, Gregory Walsh, **Nicholas Luber**, 2025, *The State of HI Across The Major Merger Sequence*, -/90 hrs.
+Very Large Array 25A-364, Gregory Walsh, **Nicholas Luber**, 2025, *The State of HI Across The Major Merger Sequence*, 75/90 hrs.
 
 Very Large Array 24A-355, Sabrina Stierwalt, **Nick Luber**, Nitya Kallivayalil, \[3 authors\], 2024, *Gas Kinematics in Dwarf-Dwarf Interactions: Fueling Hierarchical Assembly*, 180/180 hrs.
 
@@ -121,7 +121,13 @@ Green Bank Telescope 18B-357, D.J. Pisano, Jennifer Donovan Meyer, Evan Smith, \
 
 Talks and Posters
 ======
-**Colloquium,** Columbia University, New York, NYm *02/2025*
+**Invited Talk** Galaxies/AGN Journal Club, STScI, Baltimore, MD *03/2026*
+
+**Colloquium,** Barnard College, Columbia University, New York, NY *02/2026*
+
+**Talk,** 247th AAS meeting, Phoenix, AZ *01/2026*
+
+**Colloquium,** Columbia University, New York, NY *02/2025*
 
 **Talk,** 245th AAS meeting, National Harbor, MD, *01/2025*
 
